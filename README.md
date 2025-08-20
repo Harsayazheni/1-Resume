@@ -100,7 +100,7 @@ To clone a resume editted in Canva to a HTML document.
 ```
 
 # Resume Output in Web Browser
-[Resume.pdf](https://github.com/Harsayazheni/1-Resume/files/13184935/Resume.pdf)
+[[Resume.pdf](https://github.com/Harsayazheni/1-Resume/files/13184935/Resume.pdf)](https://harsayazheni.github.io/Resume-clone/)
 
 # Result
 Thus, the website is cloned using HTML program.
