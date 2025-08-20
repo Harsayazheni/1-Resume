@@ -1,4 +1,4 @@
-# 1-Resume
+# Resume - Clone
 
 # Aim
 To clone a resume editted in Canva to a HTML document.
